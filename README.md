@@ -8,7 +8,7 @@ About me:
 
 Currently expanding my horizons exploring Agentic AI, advanced optimization frameworks, and MLOps best practices.
 
-Contact me at: 📫 [azanon@alum.mit.edu](mailto:azanon@alum.mit.edu)  🔗 [www.linkedin.com/in/zanon-andrea](www.linkedin.com/in/zanon-andrea)
+Contact me: 📫 [azanon@alum.mit.edu](mailto:azanon@alum.mit.edu)  🔗 [www.linkedin.com/in/zanon-andrea](www.linkedin.com/in/zanon-andrea)
 
 
 <!--
