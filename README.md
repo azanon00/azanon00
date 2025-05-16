@@ -4,7 +4,7 @@ About me:
 
 - Data Scientist at JetBlue, deploying optimization algorithms and automated data pipelines to improve airline operations.
 - Graduated from MIT with a Master in Data Science, with focus in Machine Learning, Deep Learning, and Operations Research.
-- Capstone project on forecasting urbanization trends with satellite imagery for JPMorgan Chase ([paper](https://ieeexplore.ieee.org/document/10887251))
+- Capstone project on forecasting urbanization trends with satellite imagery for JPMorgan Chase ([paper](https://ieeexplore.ieee.org/document/10887251)).
 - Involved in research work at the MIT Operations Research Center, developing EV charging infrastructure optimization models.
 
 Currently expanding my horizons exploring Agentic AI, advanced optimization frameworks, and MLOps best practices.
